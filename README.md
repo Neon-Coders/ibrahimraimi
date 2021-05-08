@@ -1,14 +1,8 @@
-### Hi there 👋
-
-<!--
-**IbrahimOlayinka/IbrahimOlayinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <span align="center">
 
 # Hi there !!!
-![Welcome](welcome.gif?raw=true "Welcome")
 
-<p><img src="https://user-images.githubusercontent.com/75935753/114466250-e61c4200-9bf0-11eb-9aab-2804d9444417.gif " width="600" height="280"></p>
+<p><img src="https://gist.githubusercontent.com/rowhitswami/8e1b262ffc0f2368890b72fbe26bacb5/raw/068f8cb8d21e579e5d46f75918c64eeaf97f19a0/hello.gif" width="600" height="200"></p>
 
 </span>
 
@@ -31,6 +25,15 @@
 
 </span>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimOlayinka&show_icons=true&theme=radical)
+
+<br>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=IbrahimOlayinka&theme=react-dark" width="635" /> 
+
+
+<br>
 <br>
 
 > ## Languages and Tools
@@ -86,15 +89,3 @@
   <a href="https://instagram.com/ibrahim_raimi_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
