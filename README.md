@@ -2,7 +2,7 @@
 
 # Hello World !!!
 
-<p><img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif" width="600" height="200"></p>
+<p><img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif" width="600" height="300"></p>
 
 </span>
 
