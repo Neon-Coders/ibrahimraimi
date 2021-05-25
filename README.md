@@ -20,7 +20,7 @@
 
 -> 🌱 I’m currently learning the django stack <br>
 -> A student of <a href="https://www.freecodecamp.org">freecodecamp</a> and <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0">Harvard University CS50</a> <br>
--> ⚡ Fun fact: I love art and greek mythology 
+-> ⚡ Fun fact: I love art, photography, and greek mythology 
 
 </span>
 
