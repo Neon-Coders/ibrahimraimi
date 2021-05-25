@@ -12,7 +12,7 @@
 
 <span align="center">
 
-<p>I'm Ibrahim Raimi Olayinka, i have found my passion in programming and am currently learning Sql Database works to build more exciting and wonderful projects.</p>
+<p>I'm Ibrahim Raimi Olayinka, i have found my passion in programming and am currently learning about django REST framework and how Sql Database works to build more exciting and wonderful projects.</p>
 
 <p>I spend most of my time with coding and trying to be better day by day.</p>
 
