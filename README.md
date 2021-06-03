@@ -1,7 +1,5 @@
 <span align="center">
 
-# Hello World !!!
-
 <p><img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif" width="600" height="250"></p>
 
 </span>
@@ -18,7 +16,6 @@
 
 <br>
 
--> 🌱 I’m currently learning django REST framework <br>
 -> A student of <a href="https://www.freecodecamp.org">freecodecamp</a> and <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0">Harvard University CS50</a> <br>
 -> ⚡ Fun fact: I love art, photography, and greek mythology 
 
