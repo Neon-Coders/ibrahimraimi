@@ -12,8 +12,6 @@
 
 <p>I'm Ibrahim Raimi Olayinka, i have found my passion in programming and am currently learning about django REST framework and how Sql Database works to build more exciting and wonderful projects.</p>
 
-<p>I spend most of my time with coding and trying to be better day by day.</p>
-
 <br>
 
 -> A student of <a href="https://www.freecodecamp.org">freecodecamp</a> and <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0">Harvard University CS50</a> <br>
@@ -76,4 +74,4 @@
 
 ---
  ### <b> Thanks for checking my profile 💑 </b><br>
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></br>
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect :)</em></br>
