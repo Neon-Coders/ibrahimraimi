@@ -1,9 +1,3 @@
-<span align="center">
-
-<p><img src="https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg" width="600" height="320"></p>
-
-</span>
-
 ## <b>About Me
 
 <br>
