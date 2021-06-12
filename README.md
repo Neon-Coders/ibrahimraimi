@@ -1,6 +1,6 @@
 <span align="center">
 
-<p><img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif" width="600" height="250"></p>
+<p><img src="https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg" width="600" height="320"></p>
 
 </span>
 
@@ -19,13 +19,15 @@
 
 </span>
 
+
 ## <b>GitHub Stars 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimOlayinka&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimOlayinka&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 <br>
 
 ## <b>Contribution Graph 💹
-<img src="https://activity-graph.herokuapp.com/graph?username=IbrahimOlayinka&theme=react-dark" width="635" /> 
+<img src="https://activity-graph.herokuapp.com/graph?username=IbrahimOlayinka&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="635" /> 
 
 
 <br>
