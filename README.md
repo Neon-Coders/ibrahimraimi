@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-    I'm Ibrahim Raimi Olayinka, i have found my passion in programming and am currently learning about django REST framework and how Sql Database works to build more exciting and wonderful projects.
+    I'm Ibrahim Raimi Olayinka, i have found my passion in programming and am currently learning about OpenCV and how Sql Database works to build more exciting and wonderful projects.
 </p>
 
 <p>
