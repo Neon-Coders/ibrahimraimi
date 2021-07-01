@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-    Hi, i am Ibrahim Raimi Olayinka, a full stack developer from Nigeria and i enjoy creating things that live on the internet and on your computer.
+    Hi, i am Ibrahim Raimi Olayinka, a software engineer from Nigeria and i enjoy creating things that live on the internet and on your computer.
 
 My interest in tech started back in 2016 when i was to try to build a JARVIS like artificial intelligence from the marvel movie ironman. — turns out hacking together a custom AI taught me a lot about the python programming language!
 </p>
