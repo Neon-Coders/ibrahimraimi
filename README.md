@@ -9,7 +9,13 @@ My interest in tech started back in 2016 when i was to try to build a JARVIS lik
 
 <p>
     -> A student of <a href="https://www.freecodecamp.org">freecodecamp</a> and <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0">Harvard University CS50</a> <br>
-    -> ⚡ Fun fact: I love art, photography, and greek mythology 
+    - 🔭 I’m currently working on ... Python & Django, Javascript & React and OpenSource  <br>
+    - 😞 My CSS skills still sucks, that's my weakness  <br> 
+    - 🌱 I’m currently learning ... everything, kinda 🤣  <br>
+    - 👯 I’m looking to collaborate with other awesome developers  <br>
+    - 💬 Ask me about anything in tech I bet I will answer 😂  <br>
+    - ⚡ Fun fact: I love photography, art,and  greek mythology  <br>
+    - 🎸 Would love: To know how to flay a plane  <br>
 </p>
 
 ## Stats
