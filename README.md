@@ -15,7 +15,7 @@ My interest in tech started back in 2016 when i was to try to build a JARVIS lik
     - 👯 I’m looking to collaborate with other awesome developers  <br>
     - 💬 Ask me about anything in tech I bet I will answer 😂  <br>
     - ⚡ Fun fact: I love photography, art,and  greek mythology  <br>
-    - 🎸 Would love: To know how to flay a plane  <br>
+    - 🎸 Would love: To know how to fly a plane  <br>
 </p>
 
 ## Stats
