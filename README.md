@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="600" height="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="600" height="320" src="./images/Multi-Colored Triangles Store Header" /></a></p>
 
 <br />
 
