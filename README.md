@@ -6,21 +6,19 @@
 | ------------- | ------------- |
 
 ## About Me
-<p>
-    Hi, i am Ibrahim Raimi Olayinka, a fullstack software engineer from Nigeria and i enjoy creating things that live on the internet.
+I am a Software Engineer 👩🏽‍💻, and am currently looking into creating tech Contents🚀.
 
-My interest in tech started back in 2016 when i was to try to build a JARVIS like artificial intelligence from the marvel movie ironman. — turns out hacking together a custom AI taught me a lot about the python programming language!
-</p>
+I am very passionate about education, technology & music.
 
-<p>
-    - 🔭 I’m currently working on ... Cloud infrastructure project with Google Cloud Platform<br>
-    - 😞 My CSS skills stills are now getting better:) <br> 
-    - 🌱 I’m currently learning ... everything, kinda 🤣  <br>
-    - 👯 I’m looking to collaborate with other awesome developers  <br>
-    - 💬 Ask me about anything in tech I bet I will answer 😂  <br>
-    - ⚡ Fun fact: I love photography, art,and  greek mythology  <br>
-    - 🎸 Would love: To know how to fly a plane  <br>
-</p>
+🔭 I’m currently working on ... Cloud infrastructure project with Google Cloud Platform.
+
+💬 Ask me about: Infrastructure As Code, Python, Django.
+
+🌱 I’m currently learning more about Infrastructure As Code.
+
+📫 How to reach me: You can find me on [twitter](https://twitter.com/ibrahim_raimi_). I'm always there.
+
+⚡ Fun fact: I reallyphotography, art, and greek mythology.
 
 ## Languages & Frameworks
 
