@@ -1,4 +1,9 @@
-<p><img src="./images/ibrahim.png" width="600" height="320"></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="600" height="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /></a></p>
+
+<br />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahimOlayinka&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimOlayinka&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| ------------- | ------------- |
 
 ## About Me
 <p>
