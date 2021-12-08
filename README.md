@@ -36,13 +36,14 @@ My interest in tech started back in 2016 when i was to try to build a JARVIS lik
 
 ## Tools
 ![LINUX](https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
+![ARCH LINUX](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ## Contact me
-<a href="mailto:raimiibrahim44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/ibrahim_raimi_">
-    
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a><a href="https://www.linkedin.com/in/ibrahim-raimi-olayinka/"> <img src="https://img.shields.io/badge/LinkedIn-855858?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://twitter.com/ibrahim_raimi_"> <img src="https://img.shields.io/badge/Twitter-855858?style=for-the-badge&logo=twitter&logoColor=white"></a>
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimiibrahim44@gmail.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibrahim_raimi_)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-raimi-olayinka/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibrahim_raimi_)
+
 
 ### <b> Thanks for checking my profile 💑 </b><br>
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect :)</em></br>
