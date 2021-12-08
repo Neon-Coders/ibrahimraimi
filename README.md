@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="600" height="320" src="" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img src="./ibrahim.gif" /></a></p>
 
 <br />
 
