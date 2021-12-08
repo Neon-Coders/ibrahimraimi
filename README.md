@@ -40,6 +40,7 @@ I am very passionate about education, technology & music.
 ## Tools
 ![LINUX](https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
 ![ARCH LINUX](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![GIT](https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contact me
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimiibrahim44@gmail.com)
