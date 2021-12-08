@@ -19,17 +19,30 @@ My interest in tech started back in 2016 when i was to try to build a JARVIS lik
 </p>
 
 ## Languages & Frameworks
-[![HTML](https://img.shields.io/badge/HTML-855858?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)[![CSS](https://img.shields.io/badge/CSS-855858?style=for-the-badge&logo=CSS3&logoColor=white)](http://www.css3.com/)[![JavaScript](https://img.shields.io/badge/JavaScript-855858?style=for-the-badge&logo=javascript&logoColor=white)](http://www.ecmascript.org/)[![Python](https://img.shields.io/badge/Python-855858?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![Django](https://img.shields.io/badge/Django-855858?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)[![JUPYTER](https://img.shields.io/badge/Jupyter-855858.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyternotebook.com/)
+
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JAASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Databases and Cloud
-[![mysql](https://img.shields.io/badge/mySql-855858?style=for-the-badge&logo=mysql&logoColor=white)](http://www.ecmascript.org/)[![sqlite](https://img.shields.io/badge/Sqlite-855858?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.pos.org/)<img src="https://img.shields.io/badge/Netlify-855858?style=for-the-badge&logo=netlify&logoColor=white" /><img src="https://img.shields.io/badge/Heroku-855858?style=for-the-badge&logo=heroku&logoColor=white" />
+![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Tools
-[![Linux](https://img.shields.io/badge/Linux-855858?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)[![Bash](https://img.shields.io/badge/Bash-855858?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)[![Git](https://img.shields.io/badge/Git-855858?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)[![Vim](https://img.shields.io/badge/Vim-855858?style=for-the-badge&logo=vim&logoColor=white)](https://git-scm.com/)[![CodeWars](https://img.shields.io/badge/Hackthebox-855858?style=for-the-badge&logo=Hackthebox&logoColor=white)](https://www.codewars.com/users/Network404)
+![LINUX](https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
 
 ## Contact me
-<a href="mailto:raimiibrahim44@gmail.com"><img src="https://img.shields.io/badge/Gmail-855858?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://instagram.com/ibrahim_raimi_">
-<img src="https://img.shields.io/badge/Instagram-855858?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="mailto:raimiibrahim44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/ibrahim_raimi_">
+    
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a><a href="https://www.linkedin.com/in/ibrahim-raimi-olayinka/"> <img src="https://img.shields.io/badge/LinkedIn-855858?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://twitter.com/ibrahim_raimi_"> <img src="https://img.shields.io/badge/Twitter-855858?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ### <b> Thanks for checking my profile 💑 </b><br>
