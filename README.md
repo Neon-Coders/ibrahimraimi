@@ -2,15 +2,15 @@
 
 ## About Me
 <p>
-    Hi, i am Ibrahim Raimi Olayinka, a software engineer from Nigeria and i enjoy creating things that live on the internet and on your computer.
+    Hi, i am Ibrahim Raimi Olayinka, a fullstack software engineer from Nigeria and i enjoy creating things that live on the internet.
 
 My interest in tech started back in 2016 when i was to try to build a JARVIS like artificial intelligence from the marvel movie ironman. — turns out hacking together a custom AI taught me a lot about the python programming language!
 </p>
 
 <p>
     -> A student of <a href="https://www.freecodecamp.org">freecodecamp</a> and <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0">Harvard University CS50</a> <br>
-    - 🔭 I’m currently working on ... Python & Django, Javascript & React and OpenSource  <br>
-    - 😞 My CSS skills still sucks, that's my weakness  <br> 
+    - 🔭 I’m currently working on ... Cloud infrastructure project with Google Cloud Platform<br>
+    - 😞 My CSS skills stills are now getting better:) <br> 
     - 🌱 I’m currently learning ... everything, kinda 🤣  <br>
     - 👯 I’m looking to collaborate with other awesome developers  <br>
     - 💬 Ask me about anything in tech I bet I will answer 😂  <br>
