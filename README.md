@@ -8,7 +8,6 @@ My interest in tech started back in 2016 when i was to try to build a JARVIS lik
 </p>
 
 <p>
-    -> A student of <a href="https://www.freecodecamp.org">freecodecamp</a> and <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0">Harvard University CS50</a> <br>
     - 🔭 I’m currently working on ... Cloud infrastructure project with Google Cloud Platform<br>
     - 😞 My CSS skills stills are now getting better:) <br> 
     - 🌱 I’m currently learning ... everything, kinda 🤣  <br>
