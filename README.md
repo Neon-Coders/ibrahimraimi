@@ -1,11 +1,17 @@
+<!-- PROFILE BANNER IMAGE -->
 <p align="center"><a href="https://anuraghazra.github.io"><img src="./ibrahim.gif" /></a></p>
-
 <br />
 
+<!-- GITHUB STATS -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimraimi&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | ------------- | ------------- |
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ibrahimraimi&theme=gotham&hide_border=true&area=true)
+
+
+<!-- ABOUT ME -->
 ## About Me
+
 I am a Software Engineer 👩🏽‍💻, and am currently looking into creating tech Contents🚀.
 
 I am very passionate about education, technology & music.
