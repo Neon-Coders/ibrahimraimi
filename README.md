@@ -36,11 +36,12 @@ I am very passionate about education, technology & music.
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Databases and Cloud
+## Databases and Cloud Vercel
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Tools
 ![LINUX](https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
@@ -51,7 +52,10 @@ I am very passionate about education, technology & music.
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimiibrahim44@gmail.com)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibrahim_raimi_)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-raimi-olayinka/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibrahim_raimi_)
+
+<a href="http://twitter.com/ibrahim_raimi_">
+  <img src="https://img.shields.io/twitter/follow/ibrahim_raimi_?label=Twitter&logo=twitter&style=for-the-badge" />
+</a>
 
 
 ### <b> Thanks for checking my profile 💑 </b><br>
