@@ -8,55 +8,11 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ibrahimraimi&theme=gotham&hide_border=true&area=true)
 
+![Alt](https://repobeats.axiom.co/api/embed/ad87481b9b45d8b1d78134d393dace84897e3025.svg "Repobeats analytics image")
 
-<!-- ABOUT ME -->
-## About Me
 
-I am a Software Engineer 👩🏽‍💻, and am currently looking into creating tech Contents🚀.
-
-I am very passionate about education, technology & music.
-
-🔭 I’m currently working on ... Cloud infrastructure project with Google Cloud Platform.
-
-💬 Ask me about: Infrastructure As Code, Python, Django.
-
-🌱 I’m currently learning more about Infrastructure As Code.
-
-📫 How to reach me: You can find me on [twitter](https://twitter.com/ibrahim_raimi_). I'm always there.
-
-⚡ Fun fact: I reallyphotography, art, and greek mythology.
-
-## Languages & Frameworks
-
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JAASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-## Databases and Cloud Vercel
-![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## Tools
-![LINUX](https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
-![ARCH LINUX](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![GIT](https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-
-## Contact me
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimiibrahim44@gmail.com)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibrahim_raimi_)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-raimi-olayinka/)
+![Metrics](https://metrics.lecoq.io/ibrahimraimi?template=classic&isocalendar=1&languages=1&lines=1&achievements=1&activity=1&notable=1&followup=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Africa%2FLagos)
 
 <a href="http://twitter.com/ibrahim_raimi_">
   <img src="https://img.shields.io/twitter/follow/ibrahim_raimi_?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
-
-
-### <b> Thanks for checking my profile 💑 </b><br>
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect :)</em></br>
