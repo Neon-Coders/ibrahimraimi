@@ -27,6 +27,6 @@
 ![Alt](https://repobeats.axiom.co/api/embed/ad87481b9b45d8b1d78134d393dace84897e3025.svg "Repobeats analytics image")
 
 <!-- TWITTER HANDLE -->
-<a href="http://twitter.com/ibrahim_raimi_">
+<a href="http://twitter.com/ibrahimraimi_">
   <img src="https://img.shields.io/twitter/follow/ibrahim_raimi_?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
