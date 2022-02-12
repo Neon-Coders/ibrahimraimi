@@ -29,9 +29,9 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ibrahimraimi&theme=dracula&hide_border=true&area=true)
 
 <!-- GITHUB ANALYTICS -->
-![Alt](https://repobeats.axiom.co/api/embed/ad87481b9b45d8b1d78134d393dace84897e3025.svg "Repobeats analytics image")
+<!-- ![Alt](https://repobeats.axiom.co/api/embed/ad87481b9b45d8b1d78134d393dace84897e3025.svg "Repobeats analytics image") -->
 
 <!-- TWITTER HANDLE -->
-<a href="http://twitter.com/ibrahimraimi_">
-  <img src="https://img.shields.io/twitter/follow/ibrahim_raimi_?label=Twitter&logo=twitter&style=for-the-badge" />
-</a>
+  <a href="http://twitter.com/ibrahimraimi_">
+    <img src="https://img.shields.io/twitter/follow/ibrahimraimi_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
