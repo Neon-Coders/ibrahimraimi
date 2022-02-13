@@ -27,6 +27,10 @@
 - 📙 Beginner's mindset and curiosity
 - 🔗 Shared understanding and consensus
 
+## How I work
+<p>
+    My motivation are to stabilize and provide clarity through curiosity. That tends to manifest as creating just enought process.
+</p>
 
 <!-- GITHUB STATS -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimraimi&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
