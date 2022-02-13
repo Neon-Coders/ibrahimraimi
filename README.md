@@ -16,6 +16,18 @@
 </p>
 <br />
 
+## Hey 👋 
+<p>
+    Hello! My name is Ibrahim and i love programming and everything about computers. My interest in programming started back in 2016 when i decided to build a virtul artificial     intelligence from the ironman movie. - turns out hacking together an AI thought me a lot about the python programming language 😃.
+</p>
+
+## My Values
+
+- 😎 Expression as authentic self.
+- 📙 Beginner's mindset and curiosity
+- 🔗 Shared understanding and consensus
+
+
 <!-- GITHUB STATS -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimraimi&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | ------------- | ------------- |
