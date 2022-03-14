@@ -59,7 +59,12 @@
 <!-- GITHUB ANALYTICS -->
 <!-- ![Alt](https://repobeats.axiom.co/api/embed/ad87481b9b45d8b1d78134d393dace84897e3025.svg "Repobeats analytics image") -->
 
-<!-- TWITTER HANDLE -->
+<!-- CONTACT INFO -->
+ <p align="left">
   <a href="http://twitter.com/ibrahimraimi_">
     <img src="https://img.shields.io/twitter/follow/ibrahimraimi_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
+  <a href="https://www.linkedin.com/in/ibrahim-raimi-olayinka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
