@@ -10,11 +10,14 @@
    
 -->
 
+<h1 align="center">Ibrahim Raimi</h1>
+
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
   <a href="https://ibrahimraimi.netlify.app"><img src="./assets/banner.png" /></a>
 </p>
-<br />
+
+<h2 align="center">About Me</h2>
 
 ## Hey 👋 
 <p>
