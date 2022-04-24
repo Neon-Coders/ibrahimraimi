@@ -12,7 +12,7 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-  <a href="https://ibrahimraimi.netlify.app"><img src="./header-banner.gif" /></a>
+  <a href="https://ibrahimraimi.netlify.app"><img src="./assets/banner.png" /></a>
 </p>
 <br />
 
