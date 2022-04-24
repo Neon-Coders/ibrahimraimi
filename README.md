@@ -21,6 +21,8 @@
   Hello! Welcome to my GitHub profile! Thank you for visiting! 👋 
 </p>
 
+<hr>
+
 <h2 align="center">About Me</h2>
 
 
@@ -32,6 +34,8 @@
   Fast-forward to February 2020, I picked up my knowledge of HTML, CSS, JavaScript, and React. Some of those tools were really difficult to learn, while others did not.  I used React first for a couple of small projects, then ended up building a <a href="https://lighthouse-agency.netlify.app/">Marketing Agency Website</a> with it. I recently picked up NodeJS and began exploring it, and so far am greatly enjoying what it has to offer!
 </p>
 
+<hr>
+
 ## My Values
 
 - 😎 Expression as authentic self.
@@ -42,6 +46,8 @@
 <p>
     My motivation are to stabilize and provide clarity through curiosity. That tends to manifest as creating just enought process.
 </p>
+
+<hr>
 
 
 <!-- GITHUB STATS -->
@@ -58,6 +64,8 @@
 
 <!-- GITHUB ANALYTICS -->
 <!-- ![Alt](https://repobeats.axiom.co/api/embed/ad87481b9b45d8b1d78134d393dace84897e3025.svg "Repobeats analytics image") -->
+
+<hr>
 
 <!-- CONTACT INFO -->
  <p align="left">
