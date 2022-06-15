@@ -14,7 +14,7 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-  <a href="https://ibrahimraimi.netlify.app"><img src="./assets/banner.png" /></a>
+<!--   /
 </p>
 
 <p align="center">
