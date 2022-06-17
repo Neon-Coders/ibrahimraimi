@@ -14,7 +14,7 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-<!--   /
+
 </p>
 
 <p align="center">
