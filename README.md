@@ -14,7 +14,7 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-
+    <img src="./assets/profile_banner.gif" alt="" />
 </p>
 
 <p align="center">
