@@ -59,13 +59,6 @@
 | ------------- | ------------- |
 <!-- ------------------------------- -->
 
-<!-- GITHUB GRAPH -->
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ibrahimraimi&theme=dracula&hide_border=true&area=true) -->
-    
-<!-- GITHUB METRIC -->
-![Metrics](https://metrics.lecoq.io/ibrahimraimi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&achievements=1&notable=1&activity=1&lines=1&discussions=1&base.indepth=false&base.hireable=false&followup.sections=repositories&followup.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&config.timezone=Africa%2FLagos)
-
-
     
 <div align="center">
     <h2>Techstack <img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
