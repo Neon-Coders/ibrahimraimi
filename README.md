@@ -62,7 +62,7 @@
     
 <div align="center">
     <h2>Techstack <img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,react,nextjs,svelte,nodejs,mongodb,firebase,solidity">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,react,nextjs,angular,nodejs,mongodb,firebase,docker,solidity">
 </div>
 
 <hr>
