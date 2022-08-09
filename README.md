@@ -14,7 +14,7 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-    <img src="./assets/profile_banner.gif" alt="" />
+    <img src="./assets/banner.gif" alt="profile banner" />
 </p>
 
 <p align="center">
@@ -25,7 +25,6 @@
 
 <h2 align="center">About Me</h2>
 
-
 <p>
     My interest in programming started back in 2016 when i decided to build a virtul artificial intelligence from the ironman movie. - turns out hacking together an AI thought me a lot about the python programming language 😃.
 </p>
@@ -35,7 +34,6 @@
 </p>
 
 <hr>
-
 ## My Values
 
 - 😎 Expression as authentic self.
