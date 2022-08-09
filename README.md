@@ -34,6 +34,7 @@
 </p>
 
 <hr>
+
 ## My Values
 
 - 😎 Expression as authentic self.
