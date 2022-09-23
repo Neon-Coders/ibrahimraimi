@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  Fast-forward to February 2020, I picked up my knowledge of HTML, CSS, JavaScript, and React. Some of those tools were really difficult to learn, while others did not.  I used React first for a couple of small projects, then ended up building a <a href="https://lighthouse-agency.netlify.app/">Marketing Agency Website</a> with it. I recently picked up UI/UX design and began exploring it, and so far am greatly enjoying what it has to offer!
+  Fast-forward to February 2020, I picked up my knowledge of HTML, CSS, JavaScript, and React. Some of those tools were really difficult to learn, while others did not.  I used React first for a couple of small projects, then ended up building a <a href="https://lighthouse-agency.netlify.app/">Marketing Agency Website</a> with it. I recently picked up UI/UX design and so far am greatly enjoying what it has to offer!
 </p>
 
 <hr>
