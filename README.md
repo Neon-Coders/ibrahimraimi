@@ -13,9 +13,11 @@
 <h1 align="center">Ibrahim Raimi</h1>
 
 <!-- PROFILE BANNER IMAGE -->
+<!--
 <p align="center">
     <img src="./assets/banner.gif" alt="profile banner" />
 </p>
+-->
 
 <p align="center">
   Hello! Welcome to my GitHub profile! Thank you for visiting! 👋 
@@ -61,7 +63,7 @@
     
 <div align="center">
     <h2>Techstack</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,react,nextjs,angular,nodejs,mongodb,firebase,docker,solidity">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,react,nextjs,firebase,docker">
 </div>
 
 <hr>
