@@ -63,7 +63,7 @@
     
 <div align="center">
     <h2>Techstack</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,react,nextjs,firebase,docker">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,py,tailwind,react,nextjs,firebase,docker">
 </div>
 
 <hr>
