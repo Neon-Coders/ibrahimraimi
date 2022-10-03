@@ -13,11 +13,10 @@
 <h1 align="center">Ibrahim Raimi</h1>
 
 <!-- PROFILE BANNER IMAGE -->
-<!--
+
 <p align="center">
     <img src="./assets/banner.gif" alt="profile banner" />
 </p>
--->
 
 <p align="center">
   Hello! Welcome to my GitHub profile! Thank you for visiting! 👋 
