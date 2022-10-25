@@ -72,9 +72,10 @@
   <a href="http://twitter.com/ibrahimraimi_">
     <img src="https://img.shields.io/twitter/follow/ibrahimraimi_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
-  <a href="https://www.linkedin.com/in/ibrahim-raimi-olayinka/">
+ <!-- <a href="https://www.linkedin.com/in/ibrahim-raimi-olayinka/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  -->
   <a href="https://hashnode.com/@ibrahimraimi">
   <img alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a> 
