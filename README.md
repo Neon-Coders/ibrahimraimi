@@ -44,18 +44,7 @@
 </p>
 
 <hr>
-
-
-<!-- GITHUB STATS -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimraimi&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
-| ------------- | ------------- |
-
-<!-- ------------------------------- -->
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibrahimraimi&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimraimi&theme=dracula) |
-| ------------- | ------------- |
-<!-- ------------------------------- -->
-
-    
+  
 <div align="center">
     <h2>Techstack</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,react,nextjs,firebase,docker,linux,java,nodejs,mongodb">
