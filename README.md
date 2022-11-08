@@ -18,13 +18,13 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 ## Fun Facts
 
-- I prefer TypeScript to JavaScript
+- Book lover and Aviation Enthusiast
 
 - Currently working on [Anonime](https://github.com/ibrahimraimi/anonime)
 
 - I love Anime movies and have recently started diving into the manga world. My current favorite Anime so far is [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/)
 
-- If I'm not coding or creating content, you'll most likely find me playing mobile games or reading. My favorite mobile game of all time is **Cover Fire**, and I'm currently reading **Brida** by [Paulo Coelho](https://paulocoelho.com)
+- If I'm not coding or creating content, you'll most likely find me playing mobile games or reading. My favorite mobile game of all time is **Cover Fire**, and I'm currently reading [Brida](https://www.goodreads.com/book/show/2817201-brida) by [Paulo Coelho](https://paulocoelho.com)
 
 ## My Values
 
@@ -44,6 +44,7 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 
 - **ReactJS** - Am relearning ReactJS, so i can understand it better
 - **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be _learning_ JavaScript
+- **TypeScript** - Am also learning TypeScript, just to get my hands dirty.
 
 ## Let's Connect
 
