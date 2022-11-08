@@ -20,6 +20,8 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 - I prefer TypeScript to JavaScript
 
+- Currently working on [Anonime](https://github.com/ibrahimraimi/anonime)
+
 - I love Anime movies and have recently started diving into the manga world. My current favorite Anime so far is [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/)
 
 - If I'm not coding or creating content, you'll most likely find me playing mobile games or reading. My favorite mobile game of all time is **Cover Fire**, and I'm currently reading **Brida** by [Paulo Coelho](https://paulocoelho.com)
