@@ -1,36 +1,28 @@
-<!-- 
-    
-      ::::::::::: :::::::::  :::::::::      :::     :::    ::: :::::::::::   :::   :::          :::::::::      :::     :::::::::::   :::   :::   ::::::::::: 
-         :+:     :+:    :+: :+:    :+:   :+: :+:   :+:    :+:     :+:      :+:+: :+:+:         :+:    :+:   :+: :+:       :+:      :+:+: :+:+:      :+:      
-        +:+     +:+    +:+ +:+    +:+  +:+   +:+  +:+    +:+     +:+     +:+ +:+:+ +:+        +:+    +:+  +:+   +:+      +:+     +:+ +:+:+ +:+     +:+       
-       +#+     +#++:++#+  +#++:++#:  +#++:++#++: +#++:++#++     +#+     +#+  +:+  +#+        +#++:++#:  +#++:++#++:     +#+     +#+  +:+  +#+     +#+        
-      +#+     +#+    +#+ +#+    +#+ +#+     +#+ +#+    +#+     +#+     +#+       +#+        +#+    +#+ +#+     +#+     +#+     +#+       +#+     +#+         
-     #+#     #+#    #+# #+#    #+# #+#     #+# #+#    #+#     #+#     #+#       #+#        #+#    #+# #+#     #+#     #+#     #+#       #+#     #+#          
-########### #########  ###    ### ###     ### ###    ### ########### ###       ###        ###    ### ###     ### ########### ###       ### ###########       
-   
+<!--
+
+      ::::::::::: :::::::::  :::::::::      :::     :::    ::: :::::::::::   :::   :::          :::::::::      :::     :::::::::::   :::   :::   :::::::::::
+         :+:     :+:    :+: :+:    :+:   :+: :+:   :+:    :+:     :+:      :+:+: :+:+:         :+:    :+:   :+: :+:       :+:      :+:+: :+:+:      :+:
+        +:+     +:+    +:+ +:+    +:+  +:+   +:+  +:+    +:+     +:+     +:+ +:+:+ +:+        +:+    +:+  +:+   +:+      +:+     +:+ +:+:+ +:+     +:+
+       +#+     +#++:++#+  +#++:++#:  +#++:++#++: +#++:++#++     +#+     +#+  +:+  +#+        +#++:++#:  +#++:++#++:     +#+     +#+  +:+  +#+     +#+
+      +#+     +#+    +#+ +#+    +#+ +#+     +#+ +#+    +#+     +#+     +#+       +#+        +#+    +#+ +#+     +#+     +#+     +#+       +#+     +#+
+     #+#     #+#    #+# #+#    #+# #+#     #+# #+#    #+#     #+#     #+#       #+#        #+#    #+# #+#     #+#     #+#     #+#       #+#     #+#
+########### #########  ###    ### ###     ### ###    ### ########### ###       ###        ###    ### ###     ### ########### ###       ### ###########
+
 -->
 
-<h1 align="center">Ibrahim Raimi</h1>
+![Profile Banner](assets/banner.png)
 
-<!-- PROFILE BANNER IMAGE -->
+# 👋 Hey, i'm Ibrahim!
 
-<p align="center">
-    <img src="./assets/banner.gif" alt="profile banner" />
-</p>
+I'm a software engineer with a love for frontend web development. I'm currently working with React to create east-to-use and beautiful web apps. I strive to make the technology industry more accessable to aspiring developers and engineers by creating content to share the knowledge and lessons I've learned along my software engineering journey so far.
 
-<p align="center">
-  Hello! Welcome to my GitHub profile! Thank you for visiting! 👋 
-</p>
+**Fun Facts**
 
-<hr>
+- I prefer TypeScript to JavaScript
 
-<h2 align="center">About Me</h2>
+- I love Anime movies and have recently started diving into the manga world. My current favorite Anime so far is **Jujustsu Kaisen**
 
-<p>
-    My interest in programming started back in 2016 when i decided to build a virtul artificial intelligence from the ironman movie. - turns out hacking together an AI thought me a lot about the python programming language 😃.
-</p>
-
-<hr>
+- If I'm not coding or creating content, you'll most likely find me playing mobile games or reading. My favorite mobile game of all time is **Cover Fire**, and I'm currently reading **Brida** by [Paulo Coelho](https://paulocoelho.com)
 
 ## My Values
 
@@ -38,30 +30,30 @@
 - 📙 Beginner's mindset and curiosity
 - 🔗 Shared understanding and consensus
 
-## How I work
-<p>
-    My motivation are to stabilize and provide clarity through curiosity. That tends to manifest as creating just enought process.
-</p>
+## How I Work
 
-<hr>
-  
-<div align="center">
-    <h2>Techstack</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,react,nextjs,firebase,docker,linux,java,nodejs,mongodb">
-</div>
+My motivation are to stabilize and provide clarity through curiosity. That tends to manifest as creating just enought process.
 
-<hr>
+## My Current Tech Stack
 
-<!-- CONTACT INFO -->
- <div align="center">
-  <a href="http://twitter.com/ibrahimraimi_">
-    <img src="https://img.shields.io/twitter/follow/ibrahimraimi_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
- <!-- <a href="https://www.linkedin.com/in/ibrahim-raimi-olayinka/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  -->
-  <a href="https://hashnode.com/@ibrahimraimi">
-  <img alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a> 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,firebase">
+
+## Currently Learning
+
+- **ReactJS** - Am relearning ReactJS, so i can understand it better
+- **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be _learning_ JavaScript
+
+## Let's Connect
+
+Follow mw around the web
+
+<a href="http://twitter.com/ibrahimraimi_">
+  <img
+      src="https://img.shields.io/twitter/follow/ibrahimraimi_?label=Twitter&logo=twitter&style=for-the-badge&color=blue"
+      alt="Twitter Logo Badge" />
+</a>
+<a href="https://hashnode.com/@ibrahimraimi">
+  <img
+      src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
+      alt="Hashnode Logo Badge"/>
+</a>
