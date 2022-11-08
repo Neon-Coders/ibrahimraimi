@@ -45,7 +45,7 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 
 ## Let's Connect
 
-Follow mw around the web
+🌍Follow mw around the web
 
 <a href="http://twitter.com/ibrahimraimi_">
   <img
