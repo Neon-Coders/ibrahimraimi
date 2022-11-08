@@ -16,7 +16,7 @@
 
 I'm a software engineer with a love for frontend web development. I'm currently working with React to create east-to-use and beautiful web apps. I strive to make the technology industry more accessable to aspiring developers and engineers by creating content to share the knowledge and lessons I've learned along my software engineering journey so far.
 
-**Fun Facts**
+## Fun Facts
 
 - I prefer TypeScript to JavaScript
 
