@@ -45,7 +45,13 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 - **ReactJS** - Am relearning ReactJS, so i can understand it better
 - **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be _learning_ JavaScript
 
+### Contribute to my Project 👇🏽
+<!-- GITHUB STATS -->
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimraimi&repo=anonime)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimraimi&repo=streamix)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
+
 ## Let's Connect
+
 
 🌍Follow mw around the web
 
