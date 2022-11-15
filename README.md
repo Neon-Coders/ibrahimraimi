@@ -46,11 +46,6 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 - **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be _learning_ JavaScript
 - **TypeScript** - Am also learning TypeScript, just to get my hands dirty.
 
-## Contribute to my Project 👇🏽
-<!-- GITHUB STATS -->
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimraimi&repo=anonime)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimraimi&repo=streamix)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
-
 ## Let's Connect
 
 
