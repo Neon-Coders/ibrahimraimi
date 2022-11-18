@@ -16,7 +16,7 @@
 
 I'm a software engineer with a love for frontend web development. I'm currently working with React to create east-to-use and beautiful web apps. I strive to make the technology industry more accessable to aspiring developers and engineers by creating content to share the knowledge and lessons I've learned along my software engineering journey so far.
 
-## Fun Facts
+## 📖 Fun Facts
 
 - Book lover and Aviation Enthusiast
 
@@ -26,27 +26,34 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 - If I'm not coding or creating content, you'll most likely find me playing mobile games or reading. My favorite mobile game of all time is **Cover Fire**, and I'm currently reading [Brida](https://www.goodreads.com/book/show/2817201-brida) by [Paulo Coelho](https://paulocoelho.com)
 
-## My Values
+## ⌛ My Values
 
 - 😎 Expression as authentic self.
 - 📙 Beginner's mindset and curiosity
 - 🔗 Shared understanding and consensus
 
-## How I Work
+## 💼 How I Work
 
 My motivation are to stabilize and provide clarity through curiosity. That tends to manifest as creating just enought process.
 
-## My Current Tech Stack
+## 💻 My Current Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,firebase">
 
-## Currently Learning
+## 📈 GitHub Stats
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahimraimi&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=radical" />
+</p>
+
+## ✍️ Currently Learning
 
 - **ReactJS** - Am relearning ReactJS, so i can understand it better
 - **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be _learning_ JavaScript
 - **TypeScript** - Am also learning TypeScript, just to get my hands dirty.
 
-## Let's Connect
+## 📫 Let's Connect
 
 
 🌍Follow mw around the web
