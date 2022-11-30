@@ -39,13 +39,13 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 ## 💻 My Current Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,firebase">
-
+<!-- 
 ## 📈 GitHub Stats
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahimraimi&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=radical" />
-</p>
+</p> -->
 
 ## ✍️ Currently Learning
 
