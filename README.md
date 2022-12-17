@@ -10,7 +10,7 @@
 
 -->
 
-![Profile Banner](https://i.ibb.co/sFZvGbD/Twitter-Banner-2.png)
+![Profile Banner](https://i.ibb.co/5xjCnKc/Banner.png)
 
 # 👋 Hey, i'm Ibrahim!
 
