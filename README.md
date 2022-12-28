@@ -68,3 +68,8 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
       src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
       alt="Hashnode Logo Badge"/>
 </a>
+<a href="https://www.linkedin.com/in/ibrahimraimi/">
+  <img
+      src="https://img.shields.io/badge/linkedin-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
+      alt="Hashnode Logo Badge"/>
+</a>
