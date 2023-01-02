@@ -47,11 +47,11 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=radical" />
 </p> -->
 
-## ✍️ Currently Learning
+<!-- ## ✍️ Currently Learning
 
 - **ReactJS** - Am relearning ReactJS, so i can understand it better
 - **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be _learning_ JavaScript
-- **TypeScript** - Am also learning TypeScript, just to get my hands dirty.
+- **TypeScript** - Am also learning TypeScript, just to get my hands dirty. -->
 
 ## 📫 Let's Connect
 
