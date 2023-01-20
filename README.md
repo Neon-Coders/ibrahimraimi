@@ -24,7 +24,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 - I love Anime movies and have recently started diving into the manga world. My current favorite Anime so far is [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/)
 
-- If I'm not coding or creating content, you'll most likely find me playing mobile games or reading. My favorite mobile game of all time is **Cover Fire**, and I'm currently reading [Brida](https://www.goodreads.com/book/show/2817201-brida) by [Paulo Coelho](https://paulocoelho.com)
+- If I'm not coding or creating content, you'll most likely find me playing mobile games or reading. My favorite mobile game of all time is **Cover Fire**, and I'm currently reading [The Fifth Mountain](https://www.goodreads.com/book/show/1429.The_Fifth_Mountain) by [Paulo Coelho](https://paulocoelho.com)
 
 ## ⌛ My Values
 
@@ -38,20 +38,20 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 
 ## 💻 My Current Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,firebase,vite,emotion">
-<!-- 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,firebase,vite,svelte,vercel">
+
 ## 📈 GitHub Stats
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahimraimi&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=radical" />
-</p> -->
+</p>
 
-<!-- ## ✍️ Currently Learning
+## ✍️ Currently Learning
 
-- **ReactJS** - Am relearning ReactJS, so i can understand it better
+- **ThreeJS** - Am relearning ThreeJS, so i can build 3d websites and web applications 
 - **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be _learning_ JavaScript
-- **TypeScript** - Am also learning TypeScript, just to get my hands dirty. -->
+- **Svelte** - Am also learning Svelte, just to get my hands dirty.
 
 ## 📫 Let's Connect
 
