@@ -20,7 +20,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 - Book lover and Aviation Enthusiast
 
-- Currently working on [Anonime](https://github.com/ibrahimraimi/anonime)
+<!-- - Currently working on [Anonime](https://github.com/ibrahimraimi/anonime) -->
 
 - I love Anime movies and have recently started diving into the manga world. My current favorite Anime so far is [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/)
 
