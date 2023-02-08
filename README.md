@@ -10,7 +10,7 @@
 
 -->
 
-<!-- ![Profile Banner](https://i.ibb.co/5xjCnKc/Banner.png) -->
+![Profile Banner](https://github.com/ibrahimraimi/ibrahimraimi/blob/main/banner.gif)
 
 # 👋 Hey, i'm Ibrahim!
 
@@ -27,6 +27,8 @@ If you're looking for a frontend developer who is passionate, friendly, and dedi
 ## 📖 Fun Facts
 
 - Book lover and Aviation Enthusiast
+- I love Japanese culture
+- My profile banner simply says my name in [Japanese](https://japanesetranslator.co.uk/dictionaries/your-name-in-japanese/?forename=Ibrahim)
 
 <!-- - Currently working on [Anonime](https://github.com/ibrahimraimi/anonime) -->
 
