@@ -38,7 +38,7 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 
 ## 💻 My Current Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,firebase,vite,svelte,vercel">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,firebase,vite,prisma,postgres,vercel">
 
 ## ✍️ Currently Learning
 
@@ -51,7 +51,7 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 
 🌍Follow mw around the web
 
-<a href="http://twitter.com/ibrahimraimi_">
+<a href="https://twitter.com/ibrahimraimi_">
   <img
       src="https://img.shields.io/twitter/follow/ibrahimraimi_?label=Twitter&logo=twitter&style=for-the-badge&color=blue"
       alt="Twitter Logo Badge" />
