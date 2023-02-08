@@ -14,7 +14,7 @@
 
 # 👋 Hey, i'm Ibrahim!
 
-Hi, I'm a frontend developer with 3 years of experience, and I'm passionate about creating visually appealing and user-friendly websites. My expertise lies in using technologies such as HTML, CSS, JavaScript, TypeScript, Nextjs, and TailwindCSS to develop high-quality web applications.
+Hi, I'm a creative developer, and I'm passionate about creating visually appealing and user-friendly websites. My expertise lies in using technologies such as HTML, CSS, JavaScript, TypeScript, Nextjs, and TailwindCSS to develop high-quality web applications.
 
 My experience has allowed me to develop a keen eye for detail, and I always strive to ensure that the websites I create are both functional and aesthetically pleasing. I am always eager to stay up-to-date with the latest industry developments, and currently, I am exploring WebGL and Threejs to expand my skillset even further.
 
