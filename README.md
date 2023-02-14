@@ -48,7 +48,7 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 
 ## 💻 My Current Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,firebase,vite,prisma,postgres,vercel">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,vercel,redux,figma,firebase,supabase,vite,nodejs,express,prisma,mongodb,postgres">
 
 ## ✍️ Currently Learning
 
