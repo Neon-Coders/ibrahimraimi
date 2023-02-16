@@ -30,7 +30,7 @@ If you're looking for a frontend developer who is passionate, friendly, and dedi
 - I love Japanese culture
 - My profile banner simply says my name in [Japanese](https://japanesetranslator.co.uk/dictionaries/your-name-in-japanese/?forename=Ibrahim)
 
-<!-- - Currently working on [Anonime](https://github.com/ibrahimraimi/anonime) -->
+- Currently working on [Frontend Resources](https://github.com/ibrahimraimi/frontend-resources)
 
 - I love Anime movies and have recently started diving into the manga world. My current favorite Anime so far is [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/)
 
