@@ -54,7 +54,8 @@ My motivation are to stabilize and provide clarity through curiosity. That tends
 
 ## ✍️ Currently Learning
 
-- **ThreeJS** - Am relearning ThreeJS, so i can build 3d websites and web applications 
+- **ThreeJS**
+- **SvelteKit**
 
 ## 📫 Let's Connect
 
